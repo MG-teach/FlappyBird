@@ -8,7 +8,7 @@ namespace FB1
     {
         private bool gameStarted = false; // Показва дали играта е стартирана
 
-        private int score = 0; // Система за точки
+        private int score = 0; // Система за точки ...
 
         private Image background;  // Фон
         private Image bird;        // Птица
